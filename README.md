@@ -83,7 +83,8 @@ saveethaengg@gmail.com</div>
 ```
 
 ## OUTPUT:
-![image](https://github.com/Naveen1825/Figma/assets/138969868/9fc3d675-b415-4a98-b014-f6047f01fa28)
+![image](https://github.com/Naveen1825/Figma/assets/138969868/3ee2aaf7-ae14-4e21-a47e-744b6913ca95)
+
 
 
 
